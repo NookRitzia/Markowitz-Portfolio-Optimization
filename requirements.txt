@@ -6,3 +6,4 @@ matplotlib
 plotly
 cvxopt
 scipy
+seaborn
